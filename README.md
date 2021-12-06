@@ -1,2 +1,2 @@
 # recipe-app-api
-Django course
+Build a Backend REST API with Python & Django - Advanced
