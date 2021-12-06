@@ -1,2 +1,2 @@
 # recipe-app-api
-Django courssdfse
+Django course
